@@ -137,6 +137,6 @@ This will be done using **MASKING**. We perform **bitwise and** on two images to
 
 # This finally CARTOONIFY our image!
 
-[Demo1](Images/1.png) [Transformations1](Images/trans1.png)
+![Demo1](Images/1.png) ![Transformations1](Images/trans1.png)
 
-[Demo2](Images/2.png) [Transformations2](Images/trans2.png)
+![Demo2](Images/2.png) ![Transformations2](Images/trans2.png)
